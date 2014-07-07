@@ -3,6 +3,6 @@ dartgun
 
 Software for the ZombieLARP dart counter mod
 
-Please see http://imgur.com/a/vOcmn for instructions of how to use this code.
+Please see http://imgur.com/a/vOcmn for hardware setup.
 
-It is provided for convenience only and no warranty is provided for it whatsoever.
+This code is provided for convenience only and no warranty is provided for it whatsoever. You may use it however you like.
